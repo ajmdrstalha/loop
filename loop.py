@@ -6,3 +6,4 @@ for lang in languages:
 
 # add comment from jis
 # add another after adding and dele the line
+# add comment after adding rule
